@@ -1,4 +1,7 @@
-### Hi there 👋
+# Perfil de Lobo233
+- Estoy aprendiendo a programar en Shell [BASH]
+  Maestro: [Nisamov](https://github.com/Nisamov).
+
 
 <!--
 **Lobo233/Lobo233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
